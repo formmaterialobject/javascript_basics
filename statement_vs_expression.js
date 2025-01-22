@@ -4,9 +4,8 @@ Ausdruck / Expression geben einen Wert zrück - erzeugen immer einen Wert.
 
 Statement, do something (execute actions)
 Expression return a value - always generate a value. 
-
-
 */
+
 lotto = [0, 45, 12, 4, 34, 23];
 // statement -->  It declares a variable named lotto and assigns an array of numbers to it
 numone = lotto[2];
